@@ -749,7 +749,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .bgc-dark-slate-blue {
@@ -811,9 +811,12 @@ h4 {
     background-image: url("img/image-de-presentation.bmp")
 }
 
+.footerlist1
+{display: flex;}
 .footerlist1 li {
     list-style-type: none;
-    display: flex
+    display: flex;
+    padding-left: 50px;
 }
 
 @media (max-width:1024px) {
