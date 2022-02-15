@@ -761,7 +761,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #fd6017
+    background-color: #eb6222
 }
 
 .tc-white {
@@ -1053,7 +1053,24 @@ h4 {
 
     .blocsapp-device-iphone5 img {
         width: 100%;
-        height: 100%      
+        height: 100%;     
+    }
+    .social{
+    padding-bottom: 50px;}
+
+    .footerlist1
+     {display: flex;
+    flex-direction: column;}
+
+     .footerlist1 li {
+    list-style-type:circle;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 10px;
+    }
+    .portfolio-thumb {
+        width: 100%;
+        padding-bottom: 10px;
     }
 }
 
